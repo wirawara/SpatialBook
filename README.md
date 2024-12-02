@@ -1,6 +1,7 @@
 # SpatialBook
 
-Orchestrating Spatially-Resolved MultiOmics Analysis with Bioconductor 
+Orchestrating Spatially-Resolved MultiOmics Analysis with Bioconductor ![image](https://github.com/user-attachments/assets/bad88842-ba44-4a2f-b966-cd5e93e24cf9)
+
 
 ## Website
 
